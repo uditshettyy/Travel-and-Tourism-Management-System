@@ -31,7 +31,7 @@ try{
             frame.setLocation(750-(x+i)/2,400-(i/2));
             frame.setSize(x+i,i);
             try{
-                Thread.sleep(10);
+                Thread.sleep(20);
             }catch(Exception e){
             }
         }
