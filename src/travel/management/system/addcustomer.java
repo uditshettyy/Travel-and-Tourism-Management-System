@@ -1,4 +1,3 @@
-
 package travel.management.system;
 import javax.swing.*;
 import java.awt.*;
@@ -27,7 +26,7 @@ public class addcustomer extends JFrame implements ActionListener{
         add(labelusername);
         
         
-        JLabel lblid = new JLabel ("id");
+        JLabel lblid = new JLabel ("Id");
         lblid.setBounds(30,90,150,25);
         add(lblid);
         
